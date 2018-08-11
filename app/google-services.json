@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "555698293404",
+    "firebase_url": "https://eventbookapp.firebaseio.com",
+    "project_id": "eventbookapp",
+    "storage_bucket": "eventbookapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555698293404:android:4eba20a831766fc9",
+        "android_client_info": {
+          "package_name": "com.example.eventbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555698293404-63fc5vo8nl6b42jlinc50rft0gvh3voh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcP8jzzsQDqf8b-g4899afycm40j1a-h4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555698293404:android:a26f43edc9e145ca",
+        "android_client_info": {
+          "package_name": "cs.dal.eventbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555698293404-63fc5vo8nl6b42jlinc50rft0gvh3voh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcP8jzzsQDqf8b-g4899afycm40j1a-h4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

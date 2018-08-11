@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_rowSpan="12"
+    android:layout_margin="10dp"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:id="@+id/AddImage"
+        android:focusable="false"
+        android:clickable="false"
+        android:background="@android:drawable/ic_input_get"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/rowText"
+        android:focusable="false"
+        android:clickable="false"
+        android:text="File Name"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+    <CheckBox
+        android:layout_gravity="right"
+        android:id="@+id/attachFileItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2a3d42"
+    tools:context="com.example.eventbookapp.HomeActivity">
+
+
+    <TextView
+        android:id="@+id/fullscreen_content"
+        android:layout_marginTop="50dp"
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:gravity="center_horizontal"
+        android:layout_gravity="top"
+        android:keepScreenOn="true"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="55sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp">
+
+        <Button
+            android:id="@+id/btnLoginFaceBook"
+            android:layout_width="fill_parent"
+            android:layout_height="50sp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/buttonstyleblue"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:text="Login with Facebook" />
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?metaButtonBarStyle"
+            android:layout_marginBottom="40dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_horizontal"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/btnLogin"
+                android:layout_width="fill_parent"
+                android:layout_gravity="center"
+                android:layout_height="50sp"
+                android:textColor="#ffffff"
+                android:layout_marginTop="10sp"
+                android:background="@color/LightSeaGreen"
+                android:textSize="30sp"
+                android:layout_marginBottom="20sp"
+                android:textStyle="bold"
+                android:text="Login" />
+
+            <Button
+                android:id="@+id/btnRegister"
+                android:layout_width="fill_parent"
+                android:layout_height="50sp"
+                android:background="@color/LightSeaGreen"
+                android:text="Sign up"
+                android:textColor="#ffffff"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+
+</FrameLayout>

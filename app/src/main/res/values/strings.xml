@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="app_name">EventBook</string>
+    <string name="add_textbox_hint">Add a ToDo item</string>
+    <string name="add_button_text">Add</string>
+    <string name="service_title">Mobile Apps </string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="checkbox_text">Item Text</string>
+    <string name="title_activity_login">EventBook Sign in</string>
+    <string name="search_events">Search Events</string>
+
+    <!-- Strings related to login -->
+    <string name="service_url">https://eventbookapp.azurewebsites.net</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_location_title">Location</string>
+    <string name="menu_date_title">Date</string>
+    <string name="createButton">Create Event</string>
+    <string name="eventName">Event Name</string>
+    <string name="purpose">Describe about the event</string>
+    <string name="date">Date</string>
+    <string name="startingTime">Starting Time</string>
+    <string name="endingTime">Ending Time</string>
+    <string name="attendees">Expected Attendees</string>
+    <string name="location">Location</string>
+    <string name="editEvent">Edit Event</string>
+    <string name="updateEvent">Update Event</string>
+    <string name="FutureEvents">Future Event List</string>
+    <string name="AttendedEvents">Attended Event List</string>
+    <string name="showAllEvents">Show All Events</string>
+    <string name="FutureEvent">Future</string>
+    <string name="FutureAttending">Attending</string>
+    <string name="selectedEvents">Events on Date</string>
+    <string name="PastEvent">Attended</string>
+    <string name="highlightedFields">Highlighted Fields are not filled</string>
+    <string name="dateGreater">End Time should be greater than starting time</string>
+    <string name="attendeesCheck">Number of Attendees should be greater than Zero</string>
+    <string name="empty"> </string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="updateText">UPDATE EVENT</string>
+    <string name="take_notes">Add Notes</string>
+    <string name="note_taking_text">Attach notes</string>
+    <string name="when_text">When?</string>
+    <string name="where_text">Where?</string>
+    <string name="attend_event">Count me in?</string>
+    <string name="numberOfAttendees">Number of attendees</string>
+    <string name="see_ratings">See ratings and Comments</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_activity_attach_notes">AttachNotes</string>
+    <string name="title_activity_attached_files">AttachedFiles</string>
+    <string name="attach_files">Attach Files</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
