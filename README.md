@@ -1,1 +1,1 @@
-# eventBook
+# EventBook
