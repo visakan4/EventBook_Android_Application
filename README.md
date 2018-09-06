@@ -2,7 +2,7 @@
 
 ## Project Description
 
-
+EventBook is an online mobile(Android) marketplace which helps the user to search and register for events. EventBook also helps the user to store images, videos, notes related to the events in their Google Drive. EventBook will also provide remainders to the users through firebase.
 
 ## Technologies
 
