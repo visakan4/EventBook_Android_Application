@@ -24,8 +24,26 @@
 
 ## Functionalities
 
+Below listed are the functionalities which are developed as part of EventBook application
 
-
+### User
+  * Login/Signup Feature
+  * OAuth sign in
+  * Calendar view
+  * Note taking facility
+  * Cloud data upload
+  * Cloud data retrieval
+  * Event Remainder
+  * Event Search
+  * Event Comments/Review
+  * Event Navigation
+  * Event Sharing
+  
+### Admin
+  * Event Creation
+  * Event updation
+  * View list of members attending the event
+  
 ## Video (Screen cast)
 
 
