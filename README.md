@@ -46,6 +46,7 @@ Below listed are the functionalities which are developed as part of EventBook ap
   
 ## Video (Screen cast)
 
+Here is the [link](https://www.youtube.com/watch?v=pdt37wGrviE&feature=youtu.be) of the video which showcases the features of the applicaiton.
 
 ## Installation
 
