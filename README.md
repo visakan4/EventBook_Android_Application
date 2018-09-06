@@ -6,7 +6,7 @@
 
 ## Technologies
 
-**Languages:** Java
+**Language:** Java
 
 **Tools:** Android Studio, Git, Azure Mobile web services, Firebase, MySQL
 
