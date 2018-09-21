@@ -54,4 +54,4 @@ Here is the [link](https://www.youtube.com/watch?v=pdt37wGrviE&feature=youtu.be 
  * Clone the repository `git@github.com:visakan4/EventBook_Android_Application.git`
  * In Android Studio, File ---> Open ----> Navigate to the file location
  * Build the application
- * Run the applicaiton once the build is successfull.
+ * Run the application once the build is successful.
